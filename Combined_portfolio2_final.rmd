@@ -102,7 +102,6 @@ title("Simulated count of second-born boys (after a girl) - red line is real val
 ```
 
 We can see from the plot that simulations highly under predict number of the second born after a girl which are boys, which might suggest that sex of first and second born might not be independent.
-I am not sure that it is the case, but there might be a chance that parents are more likely to stop trying for kids if their first born is a boy
 
 ## Chapter 5: Spurrious Correlations
 
